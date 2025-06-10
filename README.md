@@ -27,4 +27,5 @@ Consumer preference for low-fat products, indicating health-conscious buying hab
 Fruits, vegetables, and snack foods are the top-selling categories<br>
 Medium-sized outlets in Tier 3 locations show the highest profitability<br>
 Supermarkets generate higher sales volumes, while grocery stores have better item visibility<br>
-NOTE: This analysis was conducted as part of a project and is for educational purposes only.
+<br>
+**NOTE: This analysis was conducted as part of a project and is for educational purposes only.**
